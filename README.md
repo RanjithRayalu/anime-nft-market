@@ -1,1 +1,1 @@
-Basic eCommerce website with MERN stack
+An Nft market developed using MERN architecture
